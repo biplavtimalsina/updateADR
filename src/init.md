@@ -6,6 +6,9 @@ Date: DATE
 
 Accepted
 
+## In Presence of
+
+
 ## Context
 
 We need to record the architectural decisions made on this project.
